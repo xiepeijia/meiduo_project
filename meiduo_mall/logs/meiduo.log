@@ -1,0 +1,111 @@
+INFO 2019-07-09 17:22:31,510 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+WARNING 2019-07-09 17:22:31,865 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:24:18,757 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+INFO 2019-07-09 17:33:21,447 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+WARNING 2019-07-09 17:33:21,852 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:23,720 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:23,921 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:24,119 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:24,329 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:24,523 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:24,701 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:25,140 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:25,355 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:49,999 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:51,008 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:51,133 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:51,314 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:51,498 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:33:51,668 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:34:50,387 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:42,873 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:44,610 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:45,089 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:45,841 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:46,258 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:46,740 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:46,931 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:47,118 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:47,511 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:47,810 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:48,003 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:48,215 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:48,384 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:48,595 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:48,807 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:48,987 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:49,192 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:49,382 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:49,759 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:50,000 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:50,162 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:50,363 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:50,554 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:36:50,746 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+INFO 2019-07-09 17:53:16,286 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+WARNING 2019-07-09 17:53:16,509 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 17:55:00,540 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+INFO 2019-07-09 19:07:21,139 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+WARNING 2019-07-09 19:07:21,439 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 19:08:48,636 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 19:09:18,163 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 19:10:32,323 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 19:17:11,466 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+INFO 2019-07-09 19:17:42,539 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+WARNING 2019-07-09 19:17:42,649 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 19:17:45,463 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+INFO 2019-07-09 19:44:13,869 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+WARNING 2019-07-09 19:44:14,236 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+WARNING 2019-07-09 19:44:14,237 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 400 67
+INFO 2019-07-11 09:15:56,288 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+INFO 2019-07-11 09:15:56,477 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 200 211
+INFO 2019-07-11 09:15:56,730 basehttp 124 "OPTIONS /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 0
+INFO 2019-07-11 09:15:56,862 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 0
+INFO 2019-07-11 09:15:56,868 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-07-11 09:15:56,870 basehttp 124 "OPTIONS /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 0
+INFO 2019-07-11 09:15:56,879 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-07-11 09:15:56,888 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+WARNING 2019-07-11 09:15:56,890 base 152 Not Found: /meiduo_admin/statistical/total_count/
+INFO 2019-07-11 09:15:56,891 basehttp 124 "OPTIONS /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 0
+WARNING 2019-07-11 09:15:56,901 base 152 Not Found: /meiduo_admin/statistical/day_increment/
+INFO 2019-07-11 09:15:56,902 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+WARNING 2019-07-11 09:15:56,904 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 404 8318
+WARNING 2019-07-11 09:15:56,917 base 152 Not Found: /meiduo_admin/statistical/month_increment/
+WARNING 2019-07-11 09:15:56,916 base 152 Not Found: /meiduo_admin/statistical/day_active/
+WARNING 2019-07-11 09:15:56,931 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 404 8315
+WARNING 2019-07-11 09:15:56,929 base 152 Not Found: /meiduo_admin/statistical/goods_day_views/
+WARNING 2019-07-11 09:15:56,930 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 404 8324
+WARNING 2019-07-11 09:15:56,938 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 404 8330
+WARNING 2019-07-11 09:15:56,937 base 152 Not Found: /meiduo_admin/statistical/day_active/
+WARNING 2019-07-11 09:15:56,943 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 404 8315
+WARNING 2019-07-11 09:15:56,943 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 404 8330
+WARNING 2019-07-11 09:15:56,924 base 152 Not Found: /meiduo_admin/statistical/day_orders/
+WARNING 2019-07-11 09:15:56,946 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 404 8315
+WARNING 2019-07-11 09:15:56,955 base 152 Not Found: /meiduo_admin/statistical/day_orders/
+WARNING 2019-07-11 09:15:56,955 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 404 8315
+INFO 2019-07-11 16:13:22,296 basehttp 124 "OPTIONS /meiduo_admin/authorizations/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,472 basehttp 124 "POST /meiduo_admin/authorizations/ HTTP/1.1" 200 211
+INFO 2019-07-11 16:13:22,670 basehttp 124 "OPTIONS /meiduo_admin/statistical/total_count/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,673 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_increment/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,678 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,681 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,683 basehttp 124 "OPTIONS /meiduo_admin/statistical/month_increment/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,691 basehttp 124 "OPTIONS /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,693 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_orders/ HTTP/1.1" 200 0
+INFO 2019-07-11 16:13:22,694 basehttp 124 "OPTIONS /meiduo_admin/statistical/day_active/ HTTP/1.1" 200 0
+WARNING 2019-07-11 16:13:22,735 base 152 Not Found: /meiduo_admin/statistical/day_orders/
+WARNING 2019-07-11 16:13:22,736 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 404 8315
+WARNING 2019-07-11 16:13:22,749 base 152 Not Found: /meiduo_admin/statistical/day_increment/
+WARNING 2019-07-11 16:13:22,750 base 152 Not Found: /meiduo_admin/statistical/total_count/
+WARNING 2019-07-11 16:13:22,757 base 152 Not Found: /meiduo_admin/statistical/goods_day_views/
+WARNING 2019-07-11 16:13:22,763 basehttp 124 "GET /meiduo_admin/statistical/day_increment/ HTTP/1.1" 404 8324
+WARNING 2019-07-11 16:13:22,764 basehttp 124 "GET /meiduo_admin/statistical/total_count/ HTTP/1.1" 404 8318
+WARNING 2019-07-11 16:13:22,770 base 152 Not Found: /meiduo_admin/statistical/day_active/
+WARNING 2019-07-11 16:13:22,772 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 404 8315
+WARNING 2019-07-11 16:13:22,771 basehttp 124 "GET /meiduo_admin/statistical/goods_day_views/ HTTP/1.1" 404 8330
+WARNING 2019-07-11 16:13:22,786 base 152 Not Found: /meiduo_admin/statistical/month_increment/
+WARNING 2019-07-11 16:13:22,793 base 152 Not Found: /meiduo_admin/statistical/day_orders/
+WARNING 2019-07-11 16:13:22,799 base 152 Not Found: /meiduo_admin/statistical/day_active/
+WARNING 2019-07-11 16:13:22,800 basehttp 124 "GET /meiduo_admin/statistical/month_increment/ HTTP/1.1" 404 8330
+WARNING 2019-07-11 16:13:22,801 basehttp 124 "GET /meiduo_admin/statistical/day_orders/ HTTP/1.1" 404 8315
+WARNING 2019-07-11 16:13:22,809 basehttp 124 "GET /meiduo_admin/statistical/day_active/ HTTP/1.1" 404 8315
